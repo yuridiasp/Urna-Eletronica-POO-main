@@ -1,13 +1,16 @@
 # Urna-Eletronica-POO
+
 ### Projeto da disciplina POO - UFS  
 O projeto executa uma simulação de urna eletrônica com o objetivo de encerrar um dos debates mais polêmicos da sociedade atual: Biscoito x Bolacha.
 
+[Link do Projeto Original](https://github.com/ytaloSA/Urna-Eletronica-POO)
+
 ## Integrantes:
-Ytalo Santos Aragão
-Yuri Dias Pereira
+[Ytalo Santos Aragão](https://github.com/ytaloSA)
+[Yuri Dias Pereira](https://github.com/yuridiaspg)
 
 ## Professor:
-Kalil Araújo Bispo
+[Kalil Araújo Bispo](https://github.com/kalilbispo)
 
 ## IDEs utilizadas:
 Visual Studio Code/Codium (O Visual Studio Codium trata-se apenas de uma
@@ -29,7 +32,7 @@ Baixar o projeto zip e realizar descompatação.
 ## Instruções de Uso
 Com o projeto baixado, executar o shell dentro da pasta src do projeto. Em seguida, rodar o comando:  
 
-javac main/Main.java  
+`javac main/Main.java`
 
 Caso apresente problemas para visualização de acentos ou caracteres especiais, configure a compilação com o seguinte comando:  
 
