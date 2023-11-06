@@ -1,0 +1,3 @@
+Eleitor:Kalil,Nascimento:01/01/2000,Id:8622981d-83d3-4ae2-b9d1-900956a95168,votou:false,Hash:866e6c618942a124f57aa5a9ec1f6c260cbbd90e6b5a7f702cf88c7ed94bb6de
+Eleitor:Ytalo,Nascimento:01/01/2000,Id:de70ab2c-835f-40da-a804-412d42cdbb36,votou:false,Hash:f24ac57930288429ab5f8a5a79a0e09e87c4fc069fea74640869d072e1ac30fd
+Eleitor:Yuri Dias Pereira,Nascimento:11/11/1996,Id:027cd252-f2a2-43f9-894c-8571c4eead24,votou:true,Hash:dd54fc0c3deb546fc59403d733b9dd81b96d32c4a8244580de07d763ff4398fb
